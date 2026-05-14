@@ -18,3 +18,4 @@ class TestDataAnalysis(unittest.TestCase):
 if name == 'main':
     unittest.main()
 ```
+Выполняет базовую проверку математической логики и структуры данных
